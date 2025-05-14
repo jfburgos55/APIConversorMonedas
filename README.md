@@ -24,4 +24,4 @@ de las monedas.</p>
 <h3>Conclusión</h3>
 <p>Este proyecto detalla lo aprendido durante el curso. Es gratificante poder ver como se aprende de esta tecnología, con personas profesionales de la industria.</p>
 
-<h1 align="center">Hecho con amor: Desafio Alura G8 - Oracle Next Education ONE</h1>
+<h1 align="center">Hecho con amor: Desafio Alura G8 - Oracle Next Education ONE, #challengeoneconversorlatam8</h1>
